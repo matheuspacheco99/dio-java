@@ -1,0 +1,27 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controle-fluxo_1b7c7b9f"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "controle-fluxo_1b7c7b9f"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
